@@ -4,7 +4,7 @@
 // class in Java 
 import java.util.*; 
 
-public class Main
+public class OTPGen
 { 
 	static char[] OTP(int len) 
 	{ 
