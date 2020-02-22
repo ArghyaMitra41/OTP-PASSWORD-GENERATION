@@ -5,7 +5,7 @@
 // class in Java 
 import java.util.*; 
 
-public class Main
+public class PassGen
 { 
 	public static void main(String[] args) 
 	{ 
